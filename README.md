@@ -7,6 +7,7 @@ Ideal for VRChat horror games to change the environment when the player turns aw
 - Multiple prefabs
 - Example map included
 - In-depth README with setup instructions and custom examples
+- Client Sided
 
 ## Dependencies
 - Unity 2019.4.31f1
