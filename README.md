@@ -1,7 +1,15 @@
 # VRChat "Shy Objects"
-An Udon based system to trigger events when the player looks away from the target.
 
-**INCLUDES**
-• Multiple prefabs.
-• An example map
-• In-depth readme with setup and custom examples
+An Udon-based system that triggers events when the player looks away from the target.  
+Ideal for VRChat horror games to change the environment when the player turns away.
+
+## Features
+- Multiple prefabs
+- Example map included
+- In-depth README with setup instructions and custom examples
+
+## Dependencies
+- VRChat SDK (Udon support required)
+  https://vrchat.com/home/download
+- UdonSharp
+  https://github.com/MerlinVR/UdonSharp
