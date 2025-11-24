@@ -9,6 +9,7 @@ Ideal for VRChat horror games to change the environment when the player turns aw
 - In-depth README with setup instructions and custom examples
 
 ## Dependencies
+- Unity 2019.4.31f1
 - VRChat SDK (Udon support required)
   https://vrchat.com/home/download
 - UdonSharp
