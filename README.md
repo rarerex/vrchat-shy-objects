@@ -3,6 +3,8 @@
 An Udon-based system that triggers events when the player looks away from the target.  
 Ideal for VRChat horror games to change the environment when the player turns away.
 
+![](https://github.com/rarerex/vrchat-shy-objects/blob/main/previewgif.gif)
+
 ## Features
 - Multiple prefabs
 - Example map included
