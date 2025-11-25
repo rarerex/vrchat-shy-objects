@@ -20,3 +20,5 @@ Ideal for VRChat horror games to change the environment when the player turns aw
   https://vrchat.com/home/download
 - UdonSharp
   https://github.com/MerlinVR/UdonSharp
+
+Currently does not support pitch rotation detection.
