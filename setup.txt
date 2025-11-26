@@ -1,0 +1,49 @@
+created by @rarerex
+https://github.com/rarerex
+
+--QUICK SETUP--
+
+Place the Look Detector in the scene.
+Place a prefab in the scene.
+Drag the receiver in the prefab into the list of receivers in the look detector.
+
+--PREFAB TYPES--
+
+Shy Active
+When looking away the object changes its active status.
+
+Shy Colour
+When looking away the object changes its colour.
+
+Shy Once
+Has the sane logic as Shy Colour but has a reset button to
+show an example of resetting the "Once" flag every prefab has.
+
+Shy Stalker
+Moves closer to the players back when turned away from and stops when at distance threshold.
+
+--HOW IT WORKS--
+
+The look detector fires an event called "OnLookAway" to the first 
+udon graph or udon sharp script on the receiver.
+
+If the graph or script has a custom event called "OnLookAway" then it fires it.
+You can then build your custom logic off of the event.
+
+
+The look detector does not fire until initially looked at the receiver.
+The look detector only listens for objects (receivers) in the receivers list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
