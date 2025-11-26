@@ -8,7 +8,8 @@ Ideal for VRChat horror games to change the environment when the player turns aw
 ## Features
 - Multiple prefabs
 - Example map included
-- In-depth README with setup instructions and examples
+- In-depth [Setup Instructions](https://github.com/rarerex/vrchat-shy-objects/blob/main/setup.txt)
+ and examples
 - Client Sided
 - Customisable FOV Angle
 - Distance activation control
